@@ -10,22 +10,22 @@
 > 
 > Will you joinin our crusade? Who will be strong and stand with me? Somewhere beyond the barricade, is there a world you long to see? Do you hear the people sing? Say, do youhear the distant drums? It is the future that they bring when tomorrow comes!
 
-* [在线阅读](https://bcdoc.apachecn.org)
+* [在线阅读](https://bcdoc.flygon.net)
 ## 下载
 
 ### Docker
 
 ```
-docker pull apachecn0/apachecn-blockchain-docs-zh
-docker run -tid -p <port>:80 apachecn0/apachecn-blockchain-docs-zh
+docker pull apachecn0/flygon-blockchain-docs-zh
+docker run -tid -p <port>:80 apachecn0/flygon-blockchain-docs-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g apachecn-blockchain-docs-zh
-apachecn-blockchain-docs-zh <port>
+npm install -g flygon-blockchain-docs-zh
+flygon-blockchain-docs-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
